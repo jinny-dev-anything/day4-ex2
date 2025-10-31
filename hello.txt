@@ -1,1 +1,1 @@
-updated from github push!!
+지금 깃헙에서 변경한 내용이 출력되고 있는거 맞어?
